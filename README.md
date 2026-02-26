@@ -52,3 +52,13 @@ Churn by tenure
 Revenue impact analysis
 
 Customer segmentation
+
+📌 Key Results
+
+Average churn probability: 0.27%
+
+Higher churn observed in month-to-month contracts
+
+💡 Business Impact
+
+The model enables proactive retention strategies by identifying high-risk customers and supporting targeted interventions.
