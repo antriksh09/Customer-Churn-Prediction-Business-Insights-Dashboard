@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Business-Insights-Dashboard
 This project analyzes customer churn behavior using the Telco Customer Churn dataset. A Logistic Regression model was built to predict churn probability, and insights were visualized through a Power BI dashboard for business decision-making.
 
-Objective
+🎯 Objective
 
 Identify customers likely to churn
 
@@ -9,7 +9,7 @@ Calculate churn probability
 
 Provide actionable insights for retention strategies
 
-Tools & Technologies
+🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Scikit-learn)
 
@@ -19,7 +19,7 @@ Power BI
 
 Matplotlib & Seaborn
 
-Machine Learning Workflow
+🧠 Machine Learning Workflow
 
 Data cleaning & preprocessing
 
@@ -39,7 +39,7 @@ Churn probability prediction
 
 Exported enriched dataset for BI visualization
 
-Power BI Dashboard Insights
+📈 Power BI Dashboard Insights
 
 Overall churn rate
 
